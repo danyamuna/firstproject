@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <bits/stdc++.h>
 using namespace std;
   tuple <int,int,char> t1(int n,int n1)
@@ -14,6 +14,7 @@ int main()
     int a,b;
     int new_var;
     int x;
+    ınt y;
          char c;
     tie(a,b,c)= t1(2,3);
     cout << "Values returned by tuple: ";
