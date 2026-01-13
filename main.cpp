@@ -12,7 +12,9 @@ int main()
 {
 
     int a,b;
-    char c;
+    int new_var;
+    int x;
+         char c;
     tie(a,b,c)= t1(2,3);
     cout << "Values returned by tuple: ";
     cout << a << " " << b << " " << c << endl;
