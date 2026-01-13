@@ -16,6 +16,7 @@ int main()
     int x;
     ınt y;
          char c;
+         int z;
     tie(a,b,c)= t1(2,3);
     cout << "Values returned by tuple: ";
     cout << a << " " << b << " " << c << endl;
